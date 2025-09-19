@@ -66,10 +66,11 @@ A console summary is also printed upon completion.
 
 - Python 3.10+
 
-## Contributing
-
-Feel free to submit issues or pull requests for improvements.
+## Contribution
+SanikaG31:- https://github.com/SanikaG31
+diptibangde10:- https://github.com/diptibangde10
 
 ## License
 
 This project is provided as-is for educational and security research purposes.
+
