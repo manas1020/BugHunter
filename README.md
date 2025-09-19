@@ -27,10 +27,21 @@ bughunter is a comprehensive Python-based tool designed for security researchers
 
 ## Usage
 
-Run the tool from the command line:
+Run the tool from the command line. Use the appropriate Python command based on your platform:
 
+### Windows
 ```
 python bughunter.py -d example.com -o out --max-pages 150 --threads 20
+```
+
+### Linux
+```
+python3 bughunter.py -d example.com -o out --max-pages 150 --threads 20
+```
+
+### macOS
+```
+python3 bughunter.py -d example.com -o out --max-pages 150 --threads 20
 ```
 
 ### Arguments
@@ -65,8 +76,9 @@ A console summary is also printed upon completion.
 ## Tested With
 
 - Python 3.10+
-
+  
 ## Contribution
+
 SanikaG31:- https://github.com/SanikaG31
 
 diptibangde10:- https://github.com/diptibangde10
@@ -74,5 +86,3 @@ diptibangde10:- https://github.com/diptibangde10
 ## License
 
 This project is provided as-is for educational and security research purposes.
-
-
